@@ -1,9 +1,9 @@
-Hello there!
+Hello there, students!
 
-Git course with generation 13 at Semos Education..
+Course/module: Git and GitHub
+Generation: 13
+Lecture: Introduction to git and github
+Academy: JavaScript
+Edication center: Semos Education
 
-22.03.2021
-
-Microsoft Teams
-
-Introduction to git and github
+Online/comunication tool: Microsoft Teams
