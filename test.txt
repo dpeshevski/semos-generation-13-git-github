@@ -1,1 +1,9 @@
 Hello there!
+
+Git course with generation 13 at Semos Education..
+
+22.03.2021
+
+Microsoft Teams
+
+Introduction to git and github
