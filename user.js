@@ -1,0 +1,1 @@
+console.log('Hello World, I am student at Semos Education.');
