@@ -7,3 +7,13 @@ Academy: JavaScript
 Edication center: Semos Education
 
 Online/comunication tool: Microsoft Teams
+
+This is the local change!
+
+Hi...
+
+:)
+
+console.log('Hello World');
+
+sdasdas
