@@ -17,3 +17,12 @@ Hi...
 console.log('Hello World');
 
 sdasdas
+
+Text from other members
+New line
+Hello
+I am your mate..
+
+I am from USA
+
+Nice to meet you..
